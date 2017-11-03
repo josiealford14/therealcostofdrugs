@@ -10,3 +10,9 @@ Want to know more about our analysis? Check out the [Analysis page](analysis.htm
 Interested in the motivation for this project? Click [here](motivation.html).
 
 Need more detail about R & packages used for this project? Click [here](rpackage.html).
+
+Due Date Tuesday Nov @ 11:30am. We need:
+	•	A landing page giving a broad overview of the project
+	•	A page (or pages) about the data wrangling, including the raw data if appropriate
+	•	Separate pages for each distinct analysis, possibly organized using menus
+	•	R and package versions used in the analyses
