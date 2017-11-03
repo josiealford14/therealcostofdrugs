@@ -1,0 +1,12 @@
+---
+title: "The Real Cost of Pharmaceutical Drugs: Funding and Pricing of Small-Molecule Drugs"
+---
+###
+### Our Final Project Website
+###
+
+Want to know more about our analysis? Check out the [Analysis page](analysis.html).
+
+Interested in the motivation for this project? Click [here](motivation.html).
+
+Need more detail about R & packages used for this project? Click [here](rpackage.html).
